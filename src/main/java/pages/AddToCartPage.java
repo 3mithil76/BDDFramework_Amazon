@@ -10,6 +10,8 @@ import TestBase.BaseClass;
 
 public class AddToCartPage extends BaseClass {
 	
+	//comment to check if git branch is create and working properly
+	
 	@FindBy(xpath="//div[@data-asin='B07DCJT7C9'][1]")
 	public WebElement phillipsTrimmer ;
 	
